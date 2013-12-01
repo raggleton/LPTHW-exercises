@@ -15,3 +15,4 @@ print "His teeth are usually %s depending on the coffee." % my_teeth
 
 # this line is tricky
 print "If I add %d, %d, and %d I get %d." % (my_age, my_height, my_weight, my_age+my_height+my_weight)
+
